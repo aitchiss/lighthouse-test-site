@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@netlify/plugin-lighthouse": "@netlify/plugin-lighthouse#revert-532-sa/510/upgradePuppeteer"
+    "@netlify/plugin-lighthouse": "@netlify/plugin-lighthouse#sa/testingLastRelease"
   }
 }
