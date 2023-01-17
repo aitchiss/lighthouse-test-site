@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@netlify/plugin-lighthouse": "@netlify/plugin-lighthouse#sa/510/upgradePuppeteer"
+  "dependencies": {
+    "@netlify/plugin-lighthouse": "github:netlify/netlify-plugin-lighthouse#sa/510/upgradePuppeteer"
   }
 }
