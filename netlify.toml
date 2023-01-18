@@ -7,4 +7,7 @@
   [[plugins.inputs.audits]]
     path = "contact.html"
 
+  [[plugins.inputs.audits]]
+    path = "something-that-doesnt-exist.html"
+
 
