@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "github:netlify/netlify-plugin-lighthouse#jbr/modernizing"
+    "@netlify/plugin-lighthouse": "github:netlify/netlify-plugin-lighthouse#sa/510/upgradePuppeteer"
   }
 }
