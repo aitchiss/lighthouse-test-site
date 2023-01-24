@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "github:netlify/netlify-plugin-lighthouse#release-please--branches--main--components--plugin-lighthouse"
+    "@netlify/plugin-lighthouse": "^4.0.6"
   }
 }
