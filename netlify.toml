@@ -1,6 +1,10 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
+   [plugins.inputs.settings]
+    preset = "desktop"
+    locale = "es"
+
   [[plugins.inputs.run_on_success]]
     run_on_success = "true"
 
