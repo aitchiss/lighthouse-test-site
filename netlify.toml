@@ -1,6 +1,9 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
+  [plugins.inputs.thresholds]
+    seo = 1
+
   [[plugins.inputs.audits]]
     path = ""
 
