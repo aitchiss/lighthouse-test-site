@@ -5,9 +5,6 @@
     preset = "desktop"
     locale = "es"
 
-  [plugins.inputs.thresholds]
-    seo = 1
-
   [[plugins.inputs.audits]]
     path = ""
 
