@@ -1,6 +1,10 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
+  [plugins.inputs.settings]
+    preset = "desktop"
+    locale = "es"
+
   [plugins.inputs.thresholds]
     seo = 1
 
@@ -12,5 +16,9 @@
 
   [[plugins.inputs.audits]]
     path = "something-that-doesnt-exist.html"
+
+  [[plugins.inputs.audits]]
+    serveDir = "about"
+    output_path = "reports/about.html"
 
 
