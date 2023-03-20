@@ -1,7 +1,7 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
-  [plugins.input]
+  [plugins.inputs]
     run_on_success = "true"
 
   
