@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "^4.0.6"
+    "@netlify/plugin-lighthouse": "@netlify/plugin-lighthouse#jbr/onSuccess"
   }
 }
