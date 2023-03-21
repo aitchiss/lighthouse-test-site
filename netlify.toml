@@ -1,9 +1,8 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
-  [plugins.inputs.settings]
-    locale = "es"
-    preset = "desktop"
+  [plugins.inputs.thresholds]
+    seo = 1
 
   [[plugins.inputs.audits]]
     path = ""
