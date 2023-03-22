@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#jbr/onSuccess"
+    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#jbr/removeObsoleteDebugColorCode"
   }
 }
