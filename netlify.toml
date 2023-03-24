@@ -14,4 +14,7 @@
     serveDir = "about"
     output_path = "reports/about.html"
 
+[[plugins]]
+  package = "/plugins/on-success-timeout"
+
 
