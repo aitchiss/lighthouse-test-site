@@ -5,8 +5,8 @@ module.exports = {
     }
 
     console.log("------ STARTING PLACEHOLDER ONSUCCESS PLUGIN --------");
-    //   2 mins
-    await timeout(120000);
+    //   30s
+    await timeout(55000);
     console.log("------ FINISH PLACEHOLDER ONSUCCESS PLUGIN --------");
   },
 };
