@@ -1,18 +1,7 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
-  [[plugins.inputs.audits]]
-    path = ""
 
-  [[plugins.inputs.audits]]
-    path = "contact.html"
-
-  [[plugins.inputs.audits]]
-    path = "something-that-doesnt-exist.html"
-
-  [[plugins.inputs.audits]]
-    serveDir = "about"
-    output_path = "reports/about.html"
 
 
 
