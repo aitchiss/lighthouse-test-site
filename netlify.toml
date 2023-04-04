@@ -1,6 +1,13 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
+  [plugins.inputs.thresholds]
+    performance = 0.9
+
+  [plugins.inputs.settings]
+    preset = "desktop"
+    locale = "es"
+
   [[plugins.inputs.audits]]
     path = ""
 
