@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#jbr/addSettingsDetailsToStartMessage"
+    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#sa/chore/renameRunOnSuccessEnvVar"
   }
 }
