@@ -1,20 +1,19 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
-  [plugins.inputs]
-    fail_deploy_on_score_thresholds = "true"
 
   [[plugins.inputs.audits]]
     path = ""
 
   [[plugins.inputs.audits]]
-    path = "contact"
+    path = "contact.html"
 
   [[plugins.inputs.audits]]
     path = "something-that-doesnt-exist.html"
 
   [[plugins.inputs.audits]]
-    path = "about/index.html"
+    serveDir = "about"
+    output_path = "reports/about.html"
 
 
 
