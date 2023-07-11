@@ -9,14 +9,13 @@
     path = ""
 
   [[plugins.inputs.audits]]
-    path = "contact.html"
+    path = "contact"
 
   [[plugins.inputs.audits]]
     path = "something-that-doesnt-exist.html"
 
   [[plugins.inputs.audits]]
-    serveDir = "about"
-    output_path = "reports/about.html"
+    path = "about"
 
 
 
