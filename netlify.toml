@@ -1,12 +1,11 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
-  [plugin.inputs]
+  [plugins.inputs]
     fail_deploy_on_score_thresholds = "true"
 
-  [plugin.inputs.thresholds]
+  [plugins.inputs.thresholds]
     seo = 1
-
 
   [[plugins.inputs.audits]]
     path = ""
