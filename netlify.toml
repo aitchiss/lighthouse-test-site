@@ -15,9 +15,6 @@
     path = "contact.html"
 
   [[plugins.inputs.audits]]
-    path = "something-that-doesnt-exist.html"
-
-  [[plugins.inputs.audits]]
     serveDir = "about"
     output_path = "reports/about.html"
 
