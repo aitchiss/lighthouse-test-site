@@ -4,18 +4,25 @@
   # [plugins.inputs]
   #   fail_deploy_on_score_thresholds = "true"
 
-  # [plugins.inputs.thresholds]
-  #   seo = 1
+  [plugins.inputs.thresholds]
+    seo = 0.5
+
+  # [[plugins.inputs.audits]]
+  #   path = ""
+
+  # [[plugins.inputs.audits]]
+  #   path = "contact.html"
+
+  # [[plugins.inputs.audits]]
+  #   serveDir = "about"
+  #   output_path = "reports/about.html"
+
+  # Something in staging needing this?
+  [[plugins.inputs.audits]]
+    path = "/build"
 
   [[plugins.inputs.audits]]
-    path = ""
-
-  [[plugins.inputs.audits]]
-    path = "contact.html"
-
-  [[plugins.inputs.audits]]
-    serveDir = "about"
-    output_path = "reports/about.html"
+    path = "/build/about"
 
 
 
