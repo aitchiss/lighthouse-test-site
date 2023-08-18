@@ -19,10 +19,10 @@
 
   # Something in staging needing this?
   [[plugins.inputs.audits]]
-    path = "/build"
+    path = "build"
 
   [[plugins.inputs.audits]]
-    path = "/build/about"
+    path = "build/about"
 
 
 
