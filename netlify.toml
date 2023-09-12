@@ -1,6 +1,6 @@
 [functions]
   # Sets a custom directory for Netlify Functions
-  directory = "myfunctions/"
+  directory = "netlify/myfunctions"
   
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
