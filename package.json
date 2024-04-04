@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#node-v20-compat"
+    "@netlify/plugin-lighthouse": "^6.0.0"
   }
 }
