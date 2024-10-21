@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@netlify/async-workloads": "^0.0.92",
-    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#suzanne/wrfl-1813-lighthouse-plugin-skip-the-crawlers-audit-when-auditing"
+    "@netlify/plugin-lighthouse": "6.0.1"
   }
 }
