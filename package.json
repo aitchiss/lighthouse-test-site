@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@netlify/plugin-lighthouse": "^6.0.0"
+    "@netlify/async-workloads": "^0.0.92",
+    "@netlify/plugin-lighthouse": "6.0.1"
   }
 }
