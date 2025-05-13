@@ -2,8 +2,6 @@
   # Sets a custom directory for Netlify Functions
   directory = "netlify/myfunctions"
 
-[environment]
-  MY_AWESOME_KEY = "pk_12345678901234567890"
   
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
