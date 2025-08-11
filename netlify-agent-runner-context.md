@@ -133,16 +133,5 @@ Note: In Netlify documentation and interfaces, the terms "site" and "project" ar
 
 When working with Netlify features, please refer to the following context documentation as needed:
 
-### Feature-Specific Context
-- **Serverless Functions**: https://docs.netlify.com/ai-context/scoped-context?scopes=serverless
-- **Edge Functions**: https://docs.netlify.com/ai-context/scoped-context?scopes=edge-functions
-- **Blobs**: https://docs.netlify.com/ai-context/scoped-context?scopes=blobs
-- **Image CDN**: https://docs.netlify.com/ai-context/scoped-context?scopes=image-cdn
-- **Environment Variables**: https://docs.netlify.com/ai-context/scoped-context?scopes=env-variables
-- **Forms**: https://docs.netlify.com/ai-context/scoped-context?scopes=forms
-- **Creating New Sites**: https://docs.netlify.com/ai-context/scoped-context?scopes=creating-new-sites
-- **Netlify DB**: https://docs.netlify.com/ai-context/scoped-context?scopes=db
-
-### General Documentation
 - **Netlify Docs**: https://docs.netlify.com
 - **LLM Resources Index**: https://docs.netlify.com/llms.txt
