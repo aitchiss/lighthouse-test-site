@@ -1,0 +1,8 @@
+[33mmise[0m [33mWARN[0m  deprecated [idiomatic_version_file_enable_tools]: 
+Idiomatic version files are currently enabled by default.
+[33m⠋[39m Waiting for #custom dev server to be ready
+[32m✔[39m #custom dev server ready on port 8080
+Updating files:  47% (1967/4135)[33m⠋[39m Waiting
+❯ Initial build environment
+⬥ Got error while trying to proxy Error: connect ECONNREFUSED ::1:8080
+Failed to reach dev server at path "/" after 3 attempts. Retrying...
