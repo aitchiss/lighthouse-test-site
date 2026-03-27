@@ -1,0 +1,8 @@
+[33mmise[0m [33mWARN[0m  deprecated [idiomatic_version_file_enable_tools]: 
+Idiomatic version files like /opt/build/repo/.nvmrc are currently enabled by default.
+
+❯ Initial build environment
+[32m✔[39m #custom dev server ready on port 8080
+⬥ Got error while trying to proxy Error: connect ECONNREFUSED ::1:8080
+Failed to reach dev server at path "/" after 3 attempts. Retrying...
+Failed to reach dev server at path "/" after 4 attempts. Retrying...
